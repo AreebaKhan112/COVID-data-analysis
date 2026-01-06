@@ -1,12 +1,12 @@
 ##COVID Data Analysis using SQL
 _____________________________________________________________________________
 Used SQL to analyze COVID deads and COVID vaccines datasets and answer questions like:
-      - What percentage of people who got COVID ended up dying?
-      - What is the likelihood of dying if you were in Canada?
-      - What percentage of people in Canada were affected?
-      - What were the countries with highest infection rate?
-      - What were the countries with the highest death count?
-      etc
+- What percentage of people who got COVID ended up dying?
+ - What is the likelihood of dying if you were in Canada?
+ - What percentage of people in Canada were affected?
+ - What were the countries with highest infection rate?
+ - What were the countries with the highest death count?
+
 
 Created CTEs and joins to anayze how many people got vaccinated.
 
